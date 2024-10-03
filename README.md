@@ -6,9 +6,6 @@ This is a full-stack job portal application where users can register, search for
 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Frontend Setup](#frontend-setup)
-- [Backend Setup](#backend-setup)
-- [API Endpoints](#api-endpoints)
 - [Features](#features)
 
 ## Technologies Used
@@ -44,4 +41,19 @@ This is a full-stack job portal application where users can register, search for
    ```bash
    git clone https://github.com/your-username/job-portal.git
    cd job-portal
+
+
+
+## Features
+
+### Users:
+- Sign up, sign in, and log out functionality.
+- View and update their profile.
+- Apply for jobs and manage job application history.
+
+### Admin:
+- Manage job postings (create, edit, delete).
+- View all registered users.
+- View job applications.
+
 
