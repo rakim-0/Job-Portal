@@ -39,8 +39,8 @@ This is a full-stack job portal application where users can register, search for
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/job-portal.git
-   cd job-portal
+   git clone https://github.com/rakim-0/Job-Portal.git
+   cd Job-Portal
 
 
 
