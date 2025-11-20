@@ -7,6 +7,7 @@
     "@emotion/styled": "^11.10.6",
     "@mui/icons-material": "^5.11.9",
     "@mui/material": "^5.11.10",
+    "@mui/system": "^7.3.5",
     "@mui/x-data-grid": "^6.0.2",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -24,6 +25,7 @@
     "react-toastify": "^9.1.1",
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2",
+    "utils": "link:@mui/material/utils",
     "web-vitals": "^2.1.4",
     "yup": "^1.0.0"
   },
