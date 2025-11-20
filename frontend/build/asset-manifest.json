@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8817a95a.css",
+    "main.js": "/static/js/main.b8a376c8.js",
+    "static/media/hr-project.png": "/static/media/hr-project.4b14541114bbf0b14450.png",
+    "index.html": "/index.html",
+    "main.8817a95a.css.map": "/static/css/main.8817a95a.css.map",
+    "main.b8a376c8.js.map": "/static/js/main.b8a376c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8817a95a.css",
+    "static/js/main.b8a376c8.js"
+  ]
+}
